@@ -1,0 +1,2 @@
+# Smart-bed-controlling-with-Automated-HEalth-Tracker
+The Smart Bed Controlling with Automated Health Tracker project is designed to enhance patient comfort and healthcare efficiency by integrating automation, hand gesture recognition,addresses the challenges  by elderly,  and physically disabled patients who depend heavily on caregivers for basic bed adjustments and continuous health supervision.
